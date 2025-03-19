@@ -2,7 +2,7 @@
 /*************************************************************************
 
 
-	Modified By  : Yash Sagar Mehta             
+	Created By  : Yash Sagar Mehta             
 	Description :  This script create stored procedures for cashloan instance            
 	Date  : 12-03-2025           
 
